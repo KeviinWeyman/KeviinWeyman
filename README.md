@@ -14,7 +14,9 @@ I'm **Kevin Soto** – a Junior Full Stack Developer who learns fast and loves b
 
 ### **Databases & DevOps**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+
+## ** Learning **
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🚀 Projects & Interests  
 I enjoy working on creative ideas, developing full-stack applications, and continuously improving my skills. Feel free to reach out if you want to collaborate!  
